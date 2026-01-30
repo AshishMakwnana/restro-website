@@ -1,0 +1,7 @@
+{
+  "name": "Shree Sawariya Sandwich",
+  "description": "A premium web experience for Shree Sawariya Sandwich, featuring an AI-powered menu recommender, interactive menu, and live location integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
